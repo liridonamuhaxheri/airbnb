@@ -1,0 +1,54 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    }
+.logoimg {
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 110px;
+    height: 30px;
+
+}
+.navbar {
+    
+    display: flex;
+    flex-direction: column;
+   
+}
+.logo {
+    height: 70px;
+    width: 100%;
+   box-shadow:  0px 2.9825618267059326px 7.456404209136963px rgba(0, 0, 0, 0.10);
+
+}
+.header {
+width: 100%;
+display: flex;
+}
+.headerimage {
+  margin:0 auto;
+  margin-top: 5%;
+  max-width: 90%;
+}
+.navbar h1 {
+    color: #000;
+font-family: Poppins;
+font-size: 280%;
+font-style: normal;
+font-weight: 600;
+padding-left: 8%;
+margin:0;
+margin-top: 5%;
+}
+.navbar p {
+    color: #222;
+font-family: Poppins;
+font-size: 210%;
+font-style: normal;
+font-weight: 300;
+padding-left: 8%;
+margin: 0;
+margin-top:1.5%;
+}
